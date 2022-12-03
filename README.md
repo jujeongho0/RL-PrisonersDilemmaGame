@@ -2,7 +2,6 @@
 
 Paper: [Paper.pdf](https://github.com/jujeongho0/RL-PrisonersDilemmaGame/files/10146167/Paper.pdf)
 
-
 Presentation: [Presentation.pdf](https://github.com/jujeongho0/RL-PrisonersDilemmaGame/files/10146165/Presentation.pdf)
 
 
