@@ -1,8 +1,10 @@
 # 강화학습을 통한 죄수의 딜레마 게임 대응전략 연구
 
-Paper:
+Paper: [Paper.pdf](https://github.com/jujeongho0/RL-PrisonersDilemmaGame/files/10146163/default.pdf)
 
-Presentation:
+
+Presentation: [Presentation.pdf](https://github.com/jujeongho0/RL-PrisonersDilemmaGame/files/10146165/Presentation.pdf)
+
 
 <br>
 
